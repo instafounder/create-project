@@ -1,5 +1,4 @@
-# create-project
-How to create a project
+# From Idea to Income in Minutes
 
 InstaFounder is an all-in-one platform that helps you generate profitable business ideas, build your project, and launch your business instantly without coding.
 
